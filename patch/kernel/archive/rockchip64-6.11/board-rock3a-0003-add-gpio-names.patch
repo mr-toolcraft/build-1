@@ -1,6 +1,6 @@
 From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Werner <werner@armbian.com>
-Date: Wed, 23 Oct 2024 12:27:21 +0200
+Date: Tue, 29 Oct 2024 06:07:27 +0100
 Subject: add gpio names for rock-3a
 
 Signed-off-by: Werner <werner@armbian.com>
